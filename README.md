@@ -5,5 +5,5 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ``` 
-pip install flask
+node app.js
 ```
